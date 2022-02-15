@@ -3,19 +3,19 @@ const productData = [
         index: '01',
         name: 'yellow tracksuit',
         image: 'img/img1.jpg',
-        des: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem possimus dolore illum, eveniet voluptatem libero soluta laboriosam adipisci optio culpa!'
+        des: 'The best yellow tracksuit, top 1 in fashion week'
     },
     {
         index: '02',
-        name: 'black jacket',
+        name: 'modern pants',
         image: 'img/img2.jpg',
-        des: 'elegant jacket black, simple and elegant'
+        des: 'Elegant and modern style'
     },
     {
         index: '03',
         name: 'chilling mood',
         image: 'img/img3.jpg',
-        des: 'chilling mood for chilling people who seek comfort '
+        des: 'Chilling mood for chilling people who seek comfort '
     }
 ]
 
